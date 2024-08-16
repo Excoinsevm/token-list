@@ -1,26 +1,18 @@
 [
     {
-    "chainId": 7171,
-    "address": "0xc8fAfDA6c40fBa492a811fC1081a70FEbdF0C9D9",
-    "name": "Popped Bitrock",
+    "chainId": 82,
+    "address": "0x160361ce13ec33C993b5cCA8f62B6864943eb083",
+    "name": "Wrapped MTR",
     "decimals": 18,
-    "symbol": "pBROCK",
+    "symbol": "WMTR",
     "logoURI": "https://popcatrock.github.io/token-list/src/tokens/CoinLogos/0x26eC84F702Ed08b7f2c77fF0806b53A647253666.png"
   },
   {
-    "chainId": 7171,
-    "address": "0xD647a6E1F898c39bA594443c19De0872EA935310",
-    "name": "USDBrock",
-    "decimals": 6,
-    "symbol": "USDB",
-    "logoURI": "https://popcatrock.github.io/token-list/src/tokens/CoinLogos/0xd647a6e1f898c39ba594443c19de0872ea935310.png"
-  },
-  {
-    "chainId": 7171,
-    "address": "0xdcE5726e3Bc8E1F574416978279bb0AE62AB3c15",
-    "name": "PopCatRock",
+    "chainId": 82,
+    "address": "0xE9BE839f344DE462d926d39205E6146c3320eEEf",
+    "name": "Cubes",
     "decimals": 18,
-    "symbol": "POPCAT",
+    "symbol": "CUBE",
     "logoURI": "https://https://popcatrock.github.io/token-list/src/tokens/CoinLogos/0xdcE5726e3Bc8E1F574416978279bb0AE62AB3c15.png"
   }
 ]

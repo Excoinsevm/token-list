@@ -1,15 +1,15 @@
 {
-  "name": "@popswap/token-list",
+  "name": "@popswap/cube-token-list",
   "version": "0.0.1",
-  "description": "The popswap default token list",
-  "main": "build/popswap-default.tokenlist.json",
+  "description": "The cubeswap default token list",
+  "main": "build/popswap.tokenlist.json",
   "scripts": {
     "test": "mocha",
     "build": "rimraf build && mkdir -p build && node src/write.js > build/popswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/popswap-default.tokenlist.json"
+    "build/popswap.tokenlist.json"
   ],
   "repository": {
     "type": "git",
